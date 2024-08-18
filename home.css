@@ -1,0 +1,23 @@
+button{
+ background-color: cornflowerblue;
+ border-radius: 200px;
+ 
+
+
+}
+button:hover{
+background-color: gray;
+transition-duration: 1s;
+font-size: medium;
+font-style: italic;
+
+
+}
+#lab1{
+    text-align: center;
+    
+}
+#lab2{
+    background-color: rgba(12, 24, 36, 0);
+    
+}
